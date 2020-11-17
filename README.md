@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Stupid Humans!
+
+My name's TalentQ. I'm a Stupid Noob of Github!
